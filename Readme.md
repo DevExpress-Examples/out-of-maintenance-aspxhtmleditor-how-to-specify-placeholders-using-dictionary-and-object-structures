@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Placeholder.aspx](./CS/Placeholder/Placeholder.aspx) (VB: [Placeholder.aspx.vb](./VB/Placeholder/Placeholder.aspx.vb))
+* [Placeholder.aspx.cs](./CS/Placeholder/Placeholder.aspx.cs) (VB: [Placeholder.aspx.vb](./VB/Placeholder/Placeholder.aspx.vb))
+<!-- default file list end -->
 # ASPxHtmlEditor - How to specify placeholders using dictionary and object structures
 
 
